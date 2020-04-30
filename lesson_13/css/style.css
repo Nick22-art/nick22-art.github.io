@@ -1,0 +1,17 @@
+.form-header {
+	color: #ffffff;
+	font-weight: 700;
+	font-size: 12px;
+	margin-left: 5px;
+	padding-top: 5px;
+}
+
+.form-header-back {
+	width: 150px;
+	height: 25px;
+	background-color: #01b3b3;	
+}
+
+.form{
+	border: 2px solid red;
+}
