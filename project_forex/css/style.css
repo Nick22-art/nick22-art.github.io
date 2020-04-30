@@ -1,0 +1,64 @@
+.section-header {
+	background: url(/img/header.jpg);
+}
+.header {
+	font-size: 20px;
+	line-height: 2;
+}
+.header span {
+	display: block;
+	color: #98c838;
+	font-size: 35px;
+}
+
+.header strong {
+	font-size: 40px;
+	line-height: 1;
+	color: #fff;
+}
+
+.header p {
+	margin-top: 40px;
+	color: #fff;
+	font-size: 22px;
+	font-weight: 200;
+}
+
+.feature  {
+	margin-top: 80px;
+	margin-bottom: 10px;
+	font-size: 20px;
+	font-weight: 700;
+	color: #fff;
+}
+
+.feature-txt {
+	font-size: 20px;
+	font-weight: 700;
+	color: #fff;
+}
+
+.feature-box {
+	margin-bottom: 40px;
+}
+
+.form-btn {
+	
+	margin-top: 20px;
+	color: #7fba2f;
+}
+
+.form-btn button {
+	height: 80px;
+	width: 380px;
+	font-size: 25px;
+	font-weight: 700;
+	margin-bottom: 80px;
+	
+}
+
+.icon img{
+	height: 60px;
+	width: 60px;
+	margin-top: 50px;
+}
